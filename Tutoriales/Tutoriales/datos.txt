@@ -1,0 +1,5 @@
+4
+B Rocio Secretaria 2 1800.0
+B Paco Intendente 0 1500.0
+E Hugo Plomero 30 100.00
+E Luis Jardinero 40 50

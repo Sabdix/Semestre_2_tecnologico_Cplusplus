@@ -1,0 +1,19 @@
+
+Nómina semanal de la Constructora Siglo XXI
+
+Trabajadores de Base
+Nombre      Puesto      Faltas Sueldo Base        Bono     Sueldo
+Rocio	  Secretaria           2        1800           0        1200
+Paco	  Intendente           0        1500         200        1700
+                 Totales:     200     2900
+
+Trabajadores Eventuales
+Nombre      Oficio  Horas Trab    $ / Hora        Bono     Sueldo
+Hugo	     Plomero          30         100           0        3000
+Luis	   Jardinero          40          50         250        2250
+                 Totales:     250     5250
+
+                                Gran Total :         450        8150
+
+La percepcion mas alta la tienen los empleados: 
+Hugo	     Plomero          30         100           0        3000
